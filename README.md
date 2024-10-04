@@ -34,7 +34,8 @@
    ```bash
    pip install -r requirements.txt
 
-python MerkaControl2.py
+## RUN
+`python MerkaControl2.py`
 
 
 MIT License
