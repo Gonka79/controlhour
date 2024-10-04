@@ -43,4 +43,3 @@ python MerkaControl2.py
 - **Comandos y código**: Los comandos y el código están envueltos en bloques de código utilizando `` ``` `` para una mejor visualización.
 - **Formato en negritas**: Los elementos destacados están en `**negrita**` para mayor claridad.
 
-### ¿Algún ajuste adicional que te gustaría agregar?
