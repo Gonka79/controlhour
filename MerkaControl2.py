@@ -227,7 +227,7 @@ async def salida(update: Update, context: CallbackContext) -> None:
 # Bloque 7: Configuración y ejecución del bot
 # Se configura el bot, se añaden los manejadores de comandos y se lanza la aplicación.
 def run_bot():
-    TOKEN = '8095905634:AAENiddHT75oBVU98c45M2gPEw8Z13dfSUg'
+    TOKEN = 'TOKEN HERE'
     application = Application.builder().token(TOKEN).build()
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("entrada", entrada))
